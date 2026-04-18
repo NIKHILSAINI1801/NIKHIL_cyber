@@ -1,0 +1,13 @@
+{
+  "name": "Kafka Cybersecurity Platform",
+  "description": "A full-stack cybersecurity audit platform for non-technical professionals. Features vulnerability scanning, attack simulation, and AI-powered security advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered security auditing",
+    "Network simulation",
+    "OWASP education"
+  ]
+}
